@@ -1,0 +1,13 @@
+1.- hacemos git init (En la carpeta del proyecto)
+2.- Luego agregamos el archivo gitignore en el proyecto
+ buscamos en la web gitignore io (windows, macos, linus , node)
+3.- Se hace git add gitignore
+4.- Se hace git status para validar los archivos que realmente se va agregar al repositorio
+5.- git add -A (agregamos todos los archivs)
+6.- git commit -m "Se va agregar el archivo"
+7.- git brach -M main
+8.- git remote add origin git@github.com:repositorio
+9.- git push -u origin main
+
+10.- comprobar si hay repositorio remoto
+ git remote -v
